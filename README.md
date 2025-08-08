@@ -18,3 +18,6 @@ https://zh.zlibraryu.ru
 
 ## 免费观影网站（推荐）
 https://kimivod.com
+
+提示：若域名都不可访问，可发邮件至blackbox@z-library.so发送任何一封邮件自动回复获取
+安全提示：请认准官方域名，警惕钓鱼网站。Z-Library不会通过邮件索要密码或付款信息
