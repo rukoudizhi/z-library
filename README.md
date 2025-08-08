@@ -15,3 +15,6 @@ https://zh.zlibrary0.ru
 
 **备用镜像**
 https://zh.zlibraryu.ru
+
+## 免费观影网站（推荐）
+https://kimivod.com
